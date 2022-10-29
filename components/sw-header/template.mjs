@@ -16,19 +16,13 @@ template.innerHTML = `
                 <li>
                     <h3>Kids</h3>
                     <div>
-                        <a href="#backend-cohort"><button>333.eco</button></a>
-                        <h4>Wallet</h4>
+                        <a href="#backend-cohort"><button>Play</button></a>
+                        <h4>Education Games</h4>
                         <menu>
-                            <li><a>Watch Videos on Udemy</a></li>
-                            <li><a>Read Textbook on Medium</a></li>
-                            <li><a href="#backend-quiz">Take Quizzes to Check Understanding</a></li>
-                        </menu>
-                        <h4>Personal Identification</h4>
-                        <menu>
-                            <li><a href="#backend-podcast">Podcast: Motivation & Coding Music</a></li>
-                            <li><a href="#backend-code">Interactive Coding Exercises</a></li>
-                            <li><a>Remote Pair Programming on Discord</a></li>
-                            <li><a>Students' Solo Projects on Replit</a></li>
+                            <li><a>Math</a></li>
+                            <li><a>English</a></li>
+                            <li><a>Khmer</a></li>
+                            <li><a>Music</a></li>
                         </menu>
                     </div>
                 </li>
@@ -37,16 +31,16 @@ template.innerHTML = `
                 <li>
                     <h3>Meditation</h3>
                     <div>
-                        <a href="#coupon"><button>Kiitos.Earth</button></a>
-                        <h4>Inclusion & Diversity</h4>
+                        <a href="#coupon"><button>Enter</button></a>
+                        <h4>Enlightenment Education</h4>
                         <menu>
-                            <li><a>Women & Minorities</a></li>
+                            <li><a>Zero Game</a></li>
                             <li><a>Ukrainian Refugees</a></li>
                             <li><a>Cambodian Genocide</a></li>
                         </menu>
-                        <h4>Campuses</h4>
+                        <h4>Sub Universes</h4>
                         <menu>
-                            <li><a>Cambodia</a></li>
+                            <li><a>You are an entire Universe</a></li>
                             <li><a>Ukraine</a></li>
                             <li><a>United States</a></li>
                         </menu>
@@ -57,7 +51,7 @@ template.innerHTML = `
                 <li>
                     <h3>Replay</h3>
                     <div>
-                        <a href="#ios-cohort"><button>HeartBank.Net</button></a>
+                        <a href="#ios-cohort"><button>Watch</button></a>
                         <h4>Explorer</h4>
                         <menu>
                             <li><a>Watch Videos on Udemy</a></li>
@@ -85,7 +79,7 @@ template.innerHTML = `
                 <li>
                     <h3>Theater</h3>
                     <div>
-                        <a href="#coupon"><button>HeartBank.Domains</button></a>
+                        <a href="#coupon"><button>Box Office</button></a>
                         <h4>Browser</h4>
                         <menu>
                             <li><a>Women & Minorities</a></li>
