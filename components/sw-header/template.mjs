@@ -16,7 +16,7 @@ template.innerHTML = `
                 <li>
                     <h3>Kids</h3>
                     <div>
-                        <a href="#backend-cohort"><button>Play</button></a>
+                        <a><button>Play</button></a>
                         <h4>Education Games</h4>
                         <menu>
                             <li><a>Math</a></li>
@@ -31,8 +31,8 @@ template.innerHTML = `
                 <li>
                     <h3>Meditation</h3>
                     <div>
-                        <a href="#coupon"><button>Enter</button></a>
-                        <h4>Enlightenment Education</h4>
+                        <a><button>Enter</button></a>
+                        <!--<h4>Enlightenment Education</h4>
                         <menu>
                             <li><a>Zero Game</a></li>
                             <li><a>Ukrainian Refugees</a></li>
@@ -43,7 +43,7 @@ template.innerHTML = `
                             <li><a>You are an entire Universe</a></li>
                             <li><a>Ukraine</a></li>
                             <li><a>United States</a></li>
-                        </menu>
+                        </menu>-->
                     </div>
                 </li>
             </ul>
@@ -51,8 +51,8 @@ template.innerHTML = `
                 <li>
                     <h3>Replay</h3>
                     <div>
-                        <a href="#ios-cohort"><button>Watch</button></a>
-                        <h4>Explorer</h4>
+                        <a><button>Watch</button></a>
+                        <!--<h4>Explorer</h4>
                         <menu>
                             <li><a>Watch Videos on Udemy</a></li>
                             <li><a>Read Textbook on Medium</a></li>
@@ -71,7 +71,7 @@ template.innerHTML = `
                             <li><a>Syntax Flashcards</a></li>
                             <li><a>Students' Writings on Medium</a></li>
                             <li><a>Mock Interviews on YouTube</a></li>
-                        </menu>
+                        </menu>-->
                     </div>
                 </li>
             </ul>
@@ -79,8 +79,8 @@ template.innerHTML = `
                 <li>
                     <h3>Theater</h3>
                     <div>
-                        <a href="#coupon"><button>Box Office</button></a>
-                        <h4>Browser</h4>
+                        <a href="#BoxOffice.HeartBank.Studio"><button>BoxOffice.HeartBank.Studio</button></a>
+                        <!--<h4>Browser</h4>
                         <menu>
                             <li><a>Women & Minorities</a></li>
                             <li><a>Ukrainian Refugees</a></li>
@@ -91,7 +91,7 @@ template.innerHTML = `
                             <li><a>Cambodia</a></li>
                             <li><a>Ukraine</a></li>
                             <li><a>United States</a></li>
-                        </menu>
+                        </menu>-->
                     </div>
                 </li>
             </ul>
