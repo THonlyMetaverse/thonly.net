@@ -26,13 +26,9 @@ sw-header {
 }
 
 main {
-    display: grid;
-    grid-template-rows: auto auto;
+    display: flex;
+    flex-direction: column;
     overflow: hidden scroll;
-}
-
-sw-main {
-    min-height: 90vh;
 }
 
 sw-footer {
