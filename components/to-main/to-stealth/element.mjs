@@ -1,6 +1,6 @@
 import template from './template.mjs';
 
-class SwStealth extends HTMLElement {
+class ToStealth extends HTMLElement {
     constructor() {
         super();
         this.attachShadow({ mode: "open" });
@@ -21,4 +21,4 @@ class SwStealth extends HTMLElement {
     }
 }
 
-customElements.define("sw-stealth", SwStealth);
+customElements.define("to-stealth", ToStealth);

@@ -1,8 +1,8 @@
 import "https://cdnjs.cloudflare.com/ajax/libs/gsap/1.17.0/TweenMax.min.js";
 import template from './template.mjs';
 
-class SwMain extends HTMLElement {
-    #hash = "SW-STEALTH";
+class ToMain extends HTMLElement {
+    #hash = "TO-STEALTH";
 
     constructor() {
         super();
@@ -56,4 +56,4 @@ class SwMain extends HTMLElement {
     }
 }
 
-customElements.define("sw-main", SwMain);
+customElements.define("to-main", ToMain);

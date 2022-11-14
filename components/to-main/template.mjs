@@ -3,7 +3,7 @@ const template = document.createElement("template");
 // Reference: https://codepen.io/IrrelevantEvan/pen/YVdJoG?editors=1010
 
 template.innerHTML = `
-    <link rel="stylesheet" href="components/sw-main/shadow.css">
+    <link rel="stylesheet" href="components/to-main/shadow.css">
     <slot></slot>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
         <path id="sky1" class="st0" d="M471 237c0 119.846-97.154 217-217 217S37 356.846 37 237c0-50.17 17.025-96.362 45.613-133.116C122.317 52.84 184.323 20 254 20c69.38 0 131.157 32.56 170.88 83.235C453.774 140.095 471 186.535 471 237z"/>
