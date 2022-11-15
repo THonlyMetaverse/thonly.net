@@ -1,3 +1,4 @@
+import { THonly } from '/global.mjs';
 import template from './template.mjs';
 
 class ToFooter extends HTMLElement {
@@ -7,8 +8,8 @@ class ToFooter extends HTMLElement {
         this.shadowRoot.appendChild(template.content.cloneNode(true));
     }
 
-    connectedCallback() {
-        
+    async connectedCallback() {
+        await import(`${THonly}/components/to-footer/to-sponsors/element.mjs`);
     }
 }
 
