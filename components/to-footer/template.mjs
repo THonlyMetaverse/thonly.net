@@ -11,23 +11,29 @@ template.innerHTML = `
             </section>
             <section>
                 <div>
-                    <h5>Connect</h5>
+                    <h5>Thank</h5>
                     <ul>
-                        <li><a href="https://talk.siliconwat.org">Silicon Wat</a></li>
-                        <!--<li><a href="https://github.com/sponsors/THonlyMetaverse">GitHub</a></li>
-                        <li><a href="https://youtube.com/c/ThonLy">YouTube</a></li>
-                        <li><a href="https://twitter.com/thonly">Twitter</a></li>
-                        <li><a href="https://medium.com/thonly">Medium</a></li>-->
-                    </ul> 
+                        <li><a href="https://dear.kiitos.earth/#THonly">HeartBank</a></li>
+                    </ul>
                 </div>
                 <div>
                     <h5>Sponsor</h5>
                     <ul>
-                        <li><a href="https://kiitos.earth">Kiitos</a></li>
+                        <li><a href="https://kitty.kiitos.earth/#THonly">Kiitos</a></li>
                     </ul> 
                 </div>
             </section>
             <section>
+                <!--<div>
+                    <h5>Connect</h5>
+                    <ul>
+                        <li><a href="https://me.thonly.net/#THonly">THonly</a></li>
+                        <li><a href="https://github.com/sponsors/THonlyMetaverse">GitHub</a></li>
+                        <li><a href="https://youtube.com/c/ThonLy">YouTube</a></li>
+                        <li><a href="https://twitter.com/thonly">Twitter</a></li>
+                        <li><a href="https://medium.com/thonly">Medium</a></li>
+                    </ul> 
+                </div>-->
                 <div>
                    <h5>Contact</h5>
                     <ul>
