@@ -1,4 +1,4 @@
-import { ORIGIN } from '/global.mjs';
+import { STUDIOS } from 'https://thonly.org/global.mjs';
 import template from './template.mjs';
 
 class ToFooter extends HTMLElement {
@@ -9,7 +9,7 @@ class ToFooter extends HTMLElement {
     }
 
     async connectedCallback() {
-        await import(`${ORIGIN}/components/to-footer/to-sponsors/element.mjs`);
+        await import(`${STUDIOS}/components/to-footer/to-sponsors/element.mjs`);
     }
 }
 
