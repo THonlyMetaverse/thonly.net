@@ -20,10 +20,10 @@ template.innerHTML = `
                     <a><button>Play</button></a>
                     <h4>Education Games</h4>
                     <menu>
-                        <li><a>Math</a></li>
                         <li><a>English</a></li>
-                        <li><a>Khmer</a></li>
+                        <li><a>Math</a></li>
                         <li><a>Music</a></li>
+                        <li><a>Animation</a></li>
                     </menu>
                 </nav>
             </li>
