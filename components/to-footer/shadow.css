@@ -2,10 +2,6 @@
     font-size: small;
 }
 
-section:last-child {
-    display: block;
-}
-
 @media (max-width: 480px) {
     
 }

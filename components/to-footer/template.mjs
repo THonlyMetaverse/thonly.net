@@ -35,6 +35,13 @@ template.innerHTML = `
                     </ul> 
                 </div>-->
                 <div>
+                   <h5>Build</h5>
+                    <ul>
+                        <li><a href="https://thonly.com">THonly Studios</a></li>
+                        <li><a href="https://siliconwat.dev">Silicon Wat Agency</a></li>
+                    </ul> 
+                </div>
+                <div>
                    <h5>Contact</h5>
                     <ul>
                         <li><a href="mailto:metaverse@thonly.net">metaverse@thonly.net</a></li>
