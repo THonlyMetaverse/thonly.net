@@ -15,22 +15,23 @@ template.innerHTML = `
         </label>
         <ul>
             <li>
-                <h3>Kids</h3>
+                <h3>eStories</h3>
                 <nav>
-                    <a><button>Play</button></a>
-                    <h4>Education Games</h4>
+                    <a><button>Read</button></a>
+                    <!--<h4>Education Games</h4>
                     <menu>
-                        <li><a>English</a></li>
-                        <li><a>Math</a></li>
-                        <li><a>Music</a></li>
-                        <li><a>Animation</a></li>
-                    </menu>
+                        <li><a>eEnglish</a></li>
+                        <li><a>eMath</a></li>
+                        <li><a>eNovel</a></li>
+                        <li><a>eMusic</a></li>
+                        <li><a>eAnimation</a></li>
+                    </menu>-->
                 </nav>
             </li>
             <li>
                 <h3>Meditation</h3>
                 <nav>
-                    <a><button>Enter</button></a>
+                    <a><button>Play</button></a>
                     <!--<h4>Enlightenment Education</h4>
                     <menu>
                         <li><a>Zero Game</a></li>
