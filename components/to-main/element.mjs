@@ -14,8 +14,8 @@ class ToMain extends HTMLElement {
     async connectedCallback() {
         await import(`${THONLY}/components/tl-main/tl-kiitos/element.mjs`);
         await import(`${THONLY}/components/tl-main/tl-robot/element.mjs`);
-        this.#animate();
         this.#render(true);
+        this.#animate();
     }
 
     #render(refresh) {
