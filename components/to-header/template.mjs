@@ -6,8 +6,8 @@ template.innerHTML = `
     <link rel="stylesheet" href="components/to-header/shadow.css">
     <header>
         <section>
-            <a href="/"><figure>🪐</figure></a>
-            <a href="/"><h1>THonly™ Metaverse</h1></a>
+            <a href="#"><figure>🪐</figure></a>
+            <h1>THonly™ Metaverse</h1>
         </section>
         <input id="menu-toggle" type="checkbox">
         <label class='menu-button-container' for="menu-toggle">
@@ -75,7 +75,7 @@ template.innerHTML = `
             <li>
                 <h3>Theater</h3>
                 <nav>
-                    <a href="#BoxOffice.HeartBank.Studio"><button>BoxOffice.HeartBank.Studio</button></a>
+                    <a href="https://boxoffice.heartbank.studio"><button>BoxOffice.HeartBank.Studio</button></a>
                     <!--<h4>Browser</h4>
                     <menu>
                         <li><a>Women & Minorities</a></li>
