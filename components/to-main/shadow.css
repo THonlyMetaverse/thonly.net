@@ -25,10 +25,7 @@ main {
 }
 
 footer {    
-  margin-top: 20%;
-  opacity: 0.5;
-  text-align: left;
-  left: 5%;
+  float: left;
 }
 
 button {
@@ -48,6 +45,10 @@ button {
       margin-left: 0;
       text-align: center;
   }
+
+  tl-robot {
+		display: none;
+	}
 }
 
 svg {
