@@ -75,8 +75,9 @@ template.innerHTML = `
             <li>
                 <h3>Theater</h3>
                 <nav>
-                    <a href="https://boxoffice.heartbank.studio"><button>BoxOffice.HeartBank.Studio</button></a>
-                    <!--<h4>Browser</h4>
+                    <a><button>Buy Ticket</button></a>
+                    <!--<a href="https://boxoffice.heartbank.studio"><button>BoxOffice.HeartBank.Studio</button></a>
+                    <h4>Browser</h4>
                     <menu>
                         <li><a>Women & Minorities</a></li>
                         <li><a>Ukrainian Refugees</a></li>
