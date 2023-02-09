@@ -35,7 +35,7 @@ button {
   opacity: 0.7;
 }
 
-@media (max-width: 480px) or (max-height: 480px) {
+@media (max-width: 480px), (max-height: 480px) {
   :host {
       font-size: small;
   }
