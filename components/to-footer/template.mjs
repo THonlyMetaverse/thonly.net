@@ -19,7 +19,7 @@ template.innerHTML = `
                 <div>
                     <h5>Sponsor</h5>
                     <ul>
-                        <li><a href="https://kitty.kiitos.earth/#THonly">Kiitos</a></li>
+                        <li><a href="https://kitty.kiitti.app/#THonly">Kiitti</a></li>
                     </ul> 
                 </div>
             </section>
