@@ -16,7 +16,7 @@ template.innerHTML = `
         <div>
             <ul>
                 <li>
-                    <h3>eStories</h3>
+                    <h3>VR Stories</h3>
                     <nav>
                         <a><button>Read</button></a>
                         <!--<h4>Education Games</h4>
@@ -26,6 +26,25 @@ template.innerHTML = `
                             <li><a>eNovel</a></li>
                             <li><a>eMusic</a></li>
                             <li><a>eAnimation</a></li>
+                        </menu>-->
+                    </nav>
+                </li>
+                <li>
+                    <h3>Theater</h3>
+                    <nav>
+                        <a><button>Buy Ticket</button></a>
+                        <!--<a href="https://boxoffice.heartbank.studio"><button>BoxOffice.HeartBank.Studio</button></a>
+                        <h4>Browser</h4>
+                        <menu>
+                            <li><a>Women & Minorities</a></li>
+                            <li><a>Ukrainian Refugees</a></li>
+                            <li><a>Cambodian Genocide</a></li>
+                        </menu>
+                        <h4>DNS</h4>
+                        <menu>
+                            <li><a>Cambodia</a></li>
+                            <li><a>Ukraine</a></li>
+                            <li><a>United States</a></li>
                         </menu>-->
                     </nav>
                 </li>
@@ -74,22 +93,9 @@ template.innerHTML = `
                     </nav>
                 </li>
                 <li>
-                    <h3>Theater</h3>
+                    <h3>AR Sports</h3>
                     <nav>
-                        <a><button>Buy Ticket</button></a>
-                        <!--<a href="https://boxoffice.heartbank.studio"><button>BoxOffice.HeartBank.Studio</button></a>
-                        <h4>Browser</h4>
-                        <menu>
-                            <li><a>Women & Minorities</a></li>
-                            <li><a>Ukrainian Refugees</a></li>
-                            <li><a>Cambodian Genocide</a></li>
-                        </menu>
-                        <h4>DNS</h4>
-                        <menu>
-                            <li><a>Cambodia</a></li>
-                            <li><a>Ukraine</a></li>
-                            <li><a>United States</a></li>
-                        </menu>-->
+                        <a><button>Compete</button></a>
                     </nav>
                 </li>
             </ul>
