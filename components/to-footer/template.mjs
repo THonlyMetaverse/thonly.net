@@ -37,7 +37,7 @@ template.innerHTML = `
                 <div>
                    <h5>Build</h5>
                     <ul>
-                        <li><a href="https://thonly.com">THonly Studios</a></li>
+                        <li><a href="https://thonly.com">THonly Gyms</a></li>
                         <li><a href="https://siliconwat.dev">Silicon Wat Agency</a></li>
                     </ul> 
                 </div>
@@ -50,7 +50,7 @@ template.innerHTML = `
             </section>
         </main>
         <footer>
-            <small><a href="https://thonly.com">THonly™ Studios</a> &copy; 2023</small>
+            <small><a href="https://thonly.com">THonly™ Gyms</a> &copy; 2023</small>
         </footer>
     </nav>
 `;
